@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+	printf("Hello 'Chenzuoyuan'");
+	printf("23+56=%D\n",23+56);
+	return 0;
+}
