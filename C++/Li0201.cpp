@@ -1,4 +1,4 @@
-#include <iostream.h>
+#include <iostream.h>  //The use of symbolic constants
 #define PI 3.14159
 void main( void ){
     float r, c, a, sa ;
