@@ -1,4 +1,4 @@
-#include <iostream.h> //Two function
+#include <iostream.h>  //Two function
 int sum(int x , int y){
     int z ; 
     z = x + y ;
