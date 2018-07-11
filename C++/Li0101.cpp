@@ -1,4 +1,4 @@
-#include <iostream.h>
+#include <iostream.h>  //The square of a number
 void main ( void ){
 	int num, square ;
 	cout << "num=" ;
