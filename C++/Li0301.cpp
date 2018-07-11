@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>  //The use of input and output in C
 void main( ){
     char a ;
     printf("Please input a character:") ;
